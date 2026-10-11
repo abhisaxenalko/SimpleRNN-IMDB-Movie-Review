@@ -1,0 +1,6 @@
+streamlit
+scikeras
+tensorflow
+tensorboard
+pandas
+numpy
